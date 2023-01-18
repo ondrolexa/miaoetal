@@ -1,0 +1,9 @@
+name: miaoetal
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - apsg
