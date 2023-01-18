@@ -6,5 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
+  - pip
   - pip:
     - https://github.com/ondrolexa/apsg/archive/refs/heads/master.zip
