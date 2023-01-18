@@ -1,5 +1,5 @@
 matplotlib
 numpy
 scipy
-git+https://github.com/ondrolexa/miaoetal@main#egg=apsg
+git+https://github.com/ondrolexa/apsg@master#egg=apsg
 
